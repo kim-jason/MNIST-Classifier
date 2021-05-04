@@ -12,3 +12,4 @@ import tensorflow as tf
 
 print(train_images.shape) # (60000, 28, 28)
 print(train_labels.shape) # (60000,)
+print("Hello")
